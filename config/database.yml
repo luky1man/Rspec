@@ -1,0 +1,13 @@
+development: 
+  adapter: postgresql
+  username: benja
+  password: 123 # from psql setup, see Postgresql
+  host: localhost
+  database: ejerciciorspec_development
+
+test:
+  adapter: postgresql
+  username: benja
+  password: 123 # from psql setup, see Postgresql
+  host: localhost
+  database: ejerciciorspec_development
